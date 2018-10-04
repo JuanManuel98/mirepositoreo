@@ -1,0 +1,20 @@
+<!Doctype html>
+
+<html>
+	<head>
+		<title>Curriculum Vitae</title>
+	<head>
+	<body>
+		<h1> Ramos Ortiz Juan Manuel </h1>
+		<p> 11 de Mayo de 1998 (Miahuatlan de Porfirio Diaz, Oaxaca)
+		<br/> Estado Civil: Soltero <br/> Direccion: Sinaloa 103-A, Col. Linda Vista
+		<br/> 951 419 14 85 <br/>ramosortizjuanmanuel@gmail.com</p>
+		<h2> Educacion </h2>
+		<p> 2004-2010 <b>Escuela Primaria Adolfo Lopez Mateos </b>- Oaxaca de Juarez, Mexico
+		<br/>Promedio general de calificaciones: 8.0
+		<br/>2010-2013 <b>Escuela Secundaria Tecnica N. 64</b> - Oaxaca de Juarez, Mexico
+		<br/>Promedio general de calificaciones: 8.5
+		<br/>2010-2013 <b>Colegio de Bachilleres del estado de Oaxaca plantel 01</b> - Oaxaca de Juarez, Mexico
+		<br/>Promedio general de calificaciones: 8.7 </p>
+	</body>
+</html>
