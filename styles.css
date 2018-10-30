@@ -14,10 +14,12 @@
 	left: 0;
 	top: 0;
 	right: 0;
+	
+	font-family: "Century Gothic";
 }
 
 .JEKA{
-	font-family: "Latin Modern Roman 10";
+	font-family: "Century Gothic";
 	color: white;
 	font-size: 20px;
 }
@@ -41,6 +43,7 @@ h4{
 	justify-content: center;
 	text-align: center;
 	padding: 0px;
+	font-family: "Century Gothic";
 }
 
 .links {
@@ -49,15 +52,23 @@ h4{
 	justify-content: flex-end;
 }
 
+.inicio{
+	margin-left: 20px;
+	font-family: "Century Gothic";
+}
+
 .servicios1 {
 	margin-left: 20px;
+	font-family: "Century Gothic";
 }
 
 .empresa1 {
+	font-family: "Century Gothic";
 	margin-left: 20px;
 }
 
 .contactos {
+	font-family: "Century Gothic";
 	margin-left: 20px;
 }
 
@@ -105,6 +116,7 @@ a:hover{
 	align-items: center;
 	color: white;
 	font:oblique bold 200% cursive;
+	font-family: "Century Gothic";
 	background-color: #DC720f;
 	height: 100px;
 }
@@ -118,15 +130,19 @@ a:hover{
 	display: flex;
 	text-align: center;
 	justify-content: center;
-	color: black;
-	background-color: #E0E0E0;
+	color: white;
+	background-color: #000;
+	font-family: "Century Gothic";
+	font-style: oblique;
 }
 
 .mensaje2{
-	color:#14557f;
+	color: white;
 	display: flex;
 	justify-content: center;
-	background-color: #E0E0E0;
+	background-color: #000;
+	font-family: "Century Gothic";
+	font-style: oblique;
 }
 
 .images{
@@ -159,6 +175,8 @@ a:hover{
 	text-align: center;
 	overflow: hidden;
 	background-color: #F7A958;
+	font:oblique bold 100% cursive;
+	font-family: "Century Gothic";
 }
 
 
@@ -168,6 +186,7 @@ a:hover{
   align-items: center;
   color: white;
   font:oblique bold 200% cursive;
+  font-family: "Century Gothic";
   background-color: #B2D6FF;
   height: 150px;
 }
@@ -200,7 +219,8 @@ a:hover{
 	
 .page{
 	width: 900px;
-  	margin: 0 auto; 	
+  	margin: 0 auto; 
+	font-family: "Century Gothic";	
  } 	
 
 .container {
@@ -214,6 +234,7 @@ a:hover{
   margin: 20px 1.15%;
   height: 160px;
   background-color: #B2D6FF;    /* Medium blue */
+  font-family: "Century Gothic";
 }
 
 .content {
@@ -234,7 +255,7 @@ p {
 
 .titleEmpresa{
 	text-align: center;
-	font-family: "Hervetica";
+	font-family: "Century Gothic";
 	font-size: 300%;
 	padding: 20px;
 	color: white;
@@ -246,9 +267,9 @@ p {
 	background-color: #101010;
 	display: flex;
 	padding: 20px 0;
-	height: 350px;
+	height: 150px;
 	color: #fff;
-	font-family: "Latin Modern Roman 10";
+	font-family: "Century Gothic";
 	font-style: italic;
 	font-size: 200%;
 	font-height: 100%;
@@ -271,7 +292,7 @@ p {
 	height: 300px;
 	padding: 20px 40px;
 	background-color: #FFF;
-	font-family: "Latin Modern Roman 10";
+	font-family: "Century Gothic";
 	font-style: oblique;
 	font-size: 130%;
 	font-height: 100%;
@@ -286,7 +307,7 @@ p {
 	height: 300px;
 	margin: 20px 1.5%;
 	padding: 20px 20px;
-	font-family: "Latin Modern Roman 10";
+	font-family: "Century Gothic";
 	font-size: 130%;
 	font-height: 100%;
 	font-style: oblique;
@@ -327,10 +348,10 @@ p {
 
 .principal{
 	width: 100%;
-	height: 200px;
+	height: 300px;
 	padding: 20px 20px;
 	background-color: #F7A958;
-	font-family: "Latin Modern Roman 10";
+	font-family: "Century Gothic";
 	font-style: oblique;
 	font-size: 130%;
 	font-height: 100%;
@@ -344,6 +365,7 @@ p {
 	padding: 20px 40px;
 	align-items: center;
 	justify-content: center;
+	font-family: "Century Gothic";
 }
 
 .diseño{
@@ -351,11 +373,12 @@ p {
 	padding: 20px 40px;
 	align-items: center;
 	justify-content: center;
+	font-family: "Century Gothic";
 }
 
 .equipo{
 	background-color: #fff;
-	font-family: "Latin Modern Roman 10";
+	font-family: "Century Gothic";
 	font-size: 130%;
 	text-align: center;
 	font-style: oblique;
@@ -374,6 +397,13 @@ h2{
   font-size: 1em;
   font-weight: inherit;
   color: #DC720f;
+}
+
+h3{
+  font-family: "Century Gothic";
+  font-size: 1.4em;
+  font-weight: inherit;
+  color: #FFF;
 }
 
 hr{
